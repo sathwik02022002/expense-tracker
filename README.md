@@ -1,9 +1,8 @@
-# expense-tracker
-Expense Tracker App
+#Expense Tracker App
 
 ->This is a simple React application that allows the user to create and manage multiple accounts and their transactions. The user can create a new account, view a list of all accounts, select an account to view and add new transactions to the selected account.
 
-Getting Started
+##Getting Started
 
 To run this application locally, follow these steps:
 
@@ -13,7 +12,7 @@ To run this application locally, follow these steps:
 4)Run npm start to start the development server.
 5)Open https://sathwik02022002.github.io/expense-tracker/ in your browser.
 
-Usage
+##Usage
 
 1)Create a New Account
 ->To create a new account, enter the name and balance of the account in the "Create Account" section of the page and click "Create Account". The new account will be added to the list of accounts.
@@ -24,7 +23,7 @@ Usage
 3)Add a New Transaction
 ->To add a new transaction to the selected account, enter the description, amount, and type of the transaction in the "New Transaction" section of the page and click "Add Transaction". The account's balance and transactions will be updated accordingly.
 
-Technologies Used
+##Technologies Used
 
 1)React
 2)Local Storage
