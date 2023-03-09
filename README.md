@@ -11,7 +11,7 @@ To run this application locally, follow these steps:
 2)Navigate to the project directory in the terminal.
 3)Run npm install to install the dependencies.
 4)Run npm start to start the development server.
-5)Open http://localhost:3000 in your browser.
+5)Open https://sathwik02022002.github.io/expense-tracker/ in your browser.
 
 Usage
 
